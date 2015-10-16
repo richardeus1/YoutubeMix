@@ -1,0 +1,12 @@
+1000-Louvain50%
+500-Louvain50%
+500-Louvain100%
+ALL-Louvain50%-500
+ALL-Clique50%-500
+500-Newmann0%
+500-Newmann50%
+500-Newmann100%
+500-Clique0%
+500-Clique50%
+500-Clique100%
+ALL-Newmann50%-500

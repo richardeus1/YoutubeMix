@@ -1,0 +1,6 @@
+Louvain-1000-100%
+Louvain
+0;0;4;0;4
+false
+All
+texe=682.237568322 segundos //Estricto:100%

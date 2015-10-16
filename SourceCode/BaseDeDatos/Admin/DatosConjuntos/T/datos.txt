@@ -1,0 +1,6 @@
+T
+Clique
+0;0;0;0;1
+true
+All
+ //Estricto:50%

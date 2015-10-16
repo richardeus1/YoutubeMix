@@ -1,0 +1,15 @@
+1000-Clique0%
+1000-Clique0%BUENA
+1000-Clique50%
+1000-Louvain0%
+1000-Newman0%
+Clique 1000 Nodos (0%)
+Clique 5000 Nodos
+Clique-1000-100
+Clique-500-50%-TODO
+Clique1000-50
+LOUVAIN-1000-0%
+Louvain-1000-100%
+Louvain-1000-50%
+Mi Conjunto preferido
+1000-Louvain50%2

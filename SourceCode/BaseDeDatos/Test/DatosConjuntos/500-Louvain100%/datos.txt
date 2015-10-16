@@ -1,0 +1,6 @@
+500-Louvain100%
+Louvain
+0;0;3;0;1
+false
+All
+ //Estricto:100%

@@ -1,0 +1,6 @@
+Clique 5000 Nodos
+Clique
+0;0;4;0;4
+false
+All
+texe = 1152.549191377 segundos //Estricto:50%

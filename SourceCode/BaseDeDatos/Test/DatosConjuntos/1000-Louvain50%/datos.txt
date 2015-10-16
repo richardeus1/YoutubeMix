@@ -1,0 +1,6 @@
+1000-Louvain50%
+Louvain
+0;0;3;0;1
+false
+All
+Tiempo ejecucion total Louvian 97.098346298 segundos //Estricto:50%

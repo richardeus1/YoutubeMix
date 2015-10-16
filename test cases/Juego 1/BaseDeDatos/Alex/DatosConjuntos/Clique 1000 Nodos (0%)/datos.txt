@@ -1,0 +1,6 @@
+Clique 1000 Nodos (0%)
+Clique
+0;0;4;0;4
+false
+All
+ texe= 488,884467998 seg //Estricto:0%

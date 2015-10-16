@@ -1,0 +1,12 @@
+Using Games TEST:
+Replace the database directory folder in the directory jar test kit.
+Various sets of songs already generated are also included
+->/Juego 1:
+Contains clusters generated for performance testing Users:
+	Users: {user,"pass"}
+		{Admin, "Admin"}
+		{Alex," "}
+		{Test," "}
+
+->/Juego 2:
+It contains a set of 100 songs (which the user must load a blank database) with a CancionesModificar.txt file to test the functionality by modifying file.

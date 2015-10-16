@@ -1,0 +1,6 @@
+Clique-500-50%-TODO
+Clique
+1;1;1;1;1
+false
+All
+Tiempo ejecucion total Clique 0.38228029 segundos // Estricto:50%

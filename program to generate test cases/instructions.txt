@@ -1,0 +1,6 @@
+-To Run (always console):
+javar -jar GeneradorCanciones.jar
+
+-Enter the number of songs you generate and return two files
+Canciones.txt (all the songs ready for import by the program file)
+idsCanciones.txt (ready to delete the program if you want to import)

@@ -1,0 +1,6 @@
+Clique1000-50
+Clique
+0;0;4;0;4
+false
+All
+Texe=3.361148345//Estricto:50%

@@ -1,0 +1,6 @@
+1000-Clique0%
+Clique
+0;0;4;0;1
+false
+All
+Tiempo ejecucion total Clique 467.34002471 segundos //Estricto:0%

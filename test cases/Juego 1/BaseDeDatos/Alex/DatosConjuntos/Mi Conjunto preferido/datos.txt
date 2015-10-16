@@ -1,0 +1,6 @@
+Mi Conjunto preferido
+Clique
+1;0;2;0;1
+true
+All
+Este conjunto lo parte //Estricto:78%

@@ -1,0 +1,6 @@
+ALL-Newmann50%-500
+Newmann
+1;1;1;1;1
+false
+All
+Tiempo ejecucion total NewmanGirvan 23624.873978047 segundos  //Estricto:50%
